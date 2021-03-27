@@ -3,10 +3,10 @@ Project Kelompok DTS Web Kelas 1B
 
 Tema : Company Profile "Coffe Shop"
 
-Header & Footer :
-Main : Nurjana Ariffilah Idris
-Body 1 : Jayus Purnomo Jati
-Body 2 : Mus Priandi
-Body 3 :
+Header & Footer : <br>
+Main : Nurjana Ariffilah Idris <br>
+Body 1 : Jayus Purnomo Jati <br>
+Body 2 : Mus Priandi <br>
+Body 3 : <br>
 
 DTS PRO HTML & CSS © 2021
