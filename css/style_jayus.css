@@ -8,7 +8,7 @@
   padding-bottom: 30%;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #a07d4d; /*edit by Jayus*/
+
   text-align: center;
 }
 .con-jayus {
@@ -21,16 +21,17 @@
   width: 25%;
 }
 
-.lesson-icon {
+.icon-jayus {
   position: relative;
 }
 .heading h1 {
   font-weight: normal;
-  color: #382e1e; /*edit by Jayus*/
+  color: #382e1e; 
+  text-align: center;
 }
-.lesson-icon p {
+.icon-jayus p {
   position: absolute;
-  top: 64%; /*edit by Jayus*/
+  top: 64%; 
   width: 100%;
   color: white;
 }
@@ -39,33 +40,28 @@
   display: inline-block;
   margin-top: 15px;
   font-size: 15px;
-  color: #382e1e; /*edit by Jayus*/
+  color: #382e1e; 
 }
-@media screen and (max-width: 986px) {
-	.main-jayus {
-	  padding-bottom: 130%;
-	 
-	}
+@media screen and (max-width: 976px) {
+	
 	.product-jayus {
 	  float: left;
-	  width: 60%;
+	  width: 100%;
 	}
+
 }
 @media screen and (max-width: 768px) {
-	.main-jayus {
-	  padding-bottom: 160%;
-	}
+	
 	.product-jayus {
 	  float: left;
-	  width: 60%;
+	  width: 100%;
+	 
 	}
 }
 @media screen and (max-width: 375px) {
-	.main-jayus {
-	  padding-bottom: 800%;
-	}
+	
 	.product-jayus {
 	  float: left;
-	  width: 60%;
+	  width: 100%;
 	}
 }
